@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning Spring, Docker and Kafka<br>🎯 Goals: Looking for my first job</p>
+<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning Micro services, Spring, Docker and Kafka<br>🎯 Goals: Looking for my first job</p>
 
 ###
 
